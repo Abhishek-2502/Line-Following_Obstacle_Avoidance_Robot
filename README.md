@@ -7,6 +7,7 @@ Welcome to the Line-Following Obstacle Avoidance Robot project! This repository 
 - [Hardware](#hardware)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Media](#media)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 
