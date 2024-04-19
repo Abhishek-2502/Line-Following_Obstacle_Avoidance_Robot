@@ -65,9 +65,11 @@ Once the code is uploaded to the Arduino board:
 ## Media
 
 <div>
-<img src="robotfrontimg.jpeg" height=400 width=300 alt="error">
+    <center>
+        <img src="robotfrontimg.jpeg" height=400 width=300 alt="error">
+        <img src="robotbottomimg.jpeg" height=400 width=300 alt="error">
+    </center>
 
-<img src="robotbottomimg.jpeg" height=400 width=300 alt="error">
 </div>
 
 
