@@ -63,14 +63,11 @@ Once the code is uploaded to the Arduino board:
 - **Observe the robot**: The robot should start following the black line on the ground. It will avoid obstacles present on the line using its sensors.
 
 ## Media
-
-<div>
-    <center>
-        <img src="robotfrontimg.jpeg" height=400 width=300 alt="error">
-        <img src="robotbottomimg.jpeg" height=400 width=300 alt="error">
-    </center>
-
-</div>
+ 
+<p align="center">
+    <img src="robotfrontimg.jpeg" height="400" width="300" alt="Front view of the robot">
+    <img src="robotbottomimg.jpeg" height="400" width="300" alt="Bottom view of the robot">
+</p>
 
 
 ## Troubleshooting
