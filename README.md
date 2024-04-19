@@ -62,6 +62,14 @@ Once the code is uploaded to the Arduino board:
 - **Power the robot**: Provide power to the Arduino board and motors.
 - **Observe the robot**: The robot should start following the black line on the ground. It will avoid obstacles present on the line using its sensors.
 
+## Media
+
+![](robotfrontimg.jpeg)
+
+
+![](robotbottomimg.jpeg)
+
+
 ## Troubleshooting
 
 - If the robot does not follow the line as expected, check the sensor alignment and calibration.
