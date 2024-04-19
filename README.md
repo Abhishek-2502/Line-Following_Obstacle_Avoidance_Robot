@@ -66,7 +66,8 @@ Once the code is uploaded to the Arduino board:
 
 <img src="robotfrontimg.jpeg" heigth=300 width=500 alt="error">
 
-![](robotbottomimg.jpeg)
+<img src="robotbottomimg.jpeg" heigth=300 width=500 alt="error">
+
 
 
 ## Troubleshooting
