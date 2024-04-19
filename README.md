@@ -10,6 +10,7 @@ Welcome to the Line-Following Obstacle Avoidance Robot project! This repository 
 - [Media](#media)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
+- [Author](#author)
 
 
 ## Features
@@ -81,4 +82,7 @@ Once the code is uploaded to the Arduino board:
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
 
+## Author
+
+This project was created by Abhishek Rajput.
 
