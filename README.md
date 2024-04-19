@@ -64,6 +64,7 @@ Once the code is uploaded to the Arduino board:
 
 ## Media
 
+<img src="robotfrontimg.jpeg" alt="error">
 ![](robotfrontimg.jpeg)
 
 
